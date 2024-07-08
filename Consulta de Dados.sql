@@ -1,5 +1,3 @@
-#By Yure Pablo em 29/01/2018
-#Consultas a uma tabela previamente criada
 
 # Obter nome e valor da última compra de todos os clientes. 
 
