@@ -1,5 +1,4 @@
-#By Yure Pablo em 12/03/2018
-#Criação de Tabelas
+
 
 create database estacionamento;
 
